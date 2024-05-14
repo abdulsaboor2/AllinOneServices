@@ -1,7 +1,7 @@
 # AllinOneServices
 All Services in One App
 
-This is Our FYP Project where we create an cross platform application using expo. In our application, you can get any kinf of technical support like if you want an electrician, plumber, mechanics, painter etc you can hire a helper to get services. In this, we create 2 panels one for customers and one for helpers. if helper perform the login it will go him panel if customer perform login it will go their paenl but login form will be same for both. Functionlity, we perform different functionalities such as, machine learning algortithm in feedback "COmment to Star Rating", Map Integration (View Map, View Marker, View Direction, Timer Cost etc), Near By Helper etc.
+This is Our Project where we create a cross-platform application using expo. In our application, you can get any kind of technical support if a customer wants an electrician, plumber, mechanic, painter, etc they can hire a helper to get services. In this, we create 2 panels one for customers and one for helpers. if the helper performs the login it will go to his panel if the customer performs the login it will go to their portal but the login form will be the same for both. Functionality, we perform different functionalities such as machine learning algorithm in feedback "Comment to Star Rating", Map Integration (View Map, View Marker shop and client location, View Direction, Timer Cost, etc), Near By Helper, Chatting between Helper and Customer, etc.
 
 
 Login Screen
